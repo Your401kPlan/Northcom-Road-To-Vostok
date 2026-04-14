@@ -1,7 +1,0 @@
-[mod]
-name="Northcom"
-id="northcom"
-version="0.1.0"
-
-[autoload]
-Northcom="res://mods/Northcom/Main.gd"
